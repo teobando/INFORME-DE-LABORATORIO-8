@@ -47,7 +47,7 @@ Circuito realizado con sus respectivas conexiones en Multisim.
 
 Aquí se muestra la onda seno mostrada por el osciloscopio. 
 
-![image](https://user-images.githubusercontent.com/94098157/155065386-d8abae7c-a094-4f09-a7fc-6029d08a437b.png)
+![image](https://user-images.githubusercontent.com/94098157/155068851-483568a0-912b-4f97-9085-77763a15304f.png)
 
 Por último se muestra el valor del voltaje RL medido por el multímetro.  
 
@@ -85,7 +85,7 @@ Por último se muestra el valor del voltaje RL medido por el multímetro.
 
 8. Compare el voltaje medido en el punto 5 y el obtenido en el punto 7. ¿Coinciden? ¿Por qué?
 
--Pues evidentemente no coinciden, dado que el valor del voltaje en el osciloscopio nos da un valor pico , mientras que en  el multímetro da un valor   rms o también conocido como efectivo 
+- Pues evidentemente no coinciden, dado que el valor del voltaje en el osciloscopio nos da un valor pico , mientras que en  el multímetro da un valor   rms o también conocido como efectivo 
 
 **6. VIDEO:**
 
