@@ -87,13 +87,23 @@ Por último se muestra el valor del voltaje RL medido por el multímetro.
 
 8. Compare el voltaje medido en el punto 5 y el obtenido en el punto 7. ¿Coinciden? ¿Por qué?
 
-- Pues evidentemente no coinciden, dado que el valor del voltaje en el osciloscopio nos da un valor pico , mientras que en  el multímetro da un valor   rms o también conocido como efectivo 
+- Pues evidentemente no coinciden, dado que el valor del voltaje en el osciloscopio nos da un valor pico , mientras que en  el multímetro da un valor   rms o también conocido como efectivo.
+
+**CALCULO DE ERROR**
+
+Para este aspecto se calcula el valor de voltaje rms en el que se lo obtiene al  multiplicar la amplitud de la onda seno  por su constante que es 1/(2)^(½) o 0.707 y se lo compara con el valor del voltaje obtenido en el multímetro. 
+
+![image](https://user-images.githubusercontent.com/94098157/155179109-9d7586e3-987c-414b-961d-4123152c62ad.png)
 
 **6. VIDEO:**
 
 https://www.youtube.com/watch?v=3CqOjifVww4
 
 **7. CONCLUSIONES**
+
+-Se concluye que los valores de voltajes varían en función del tiempo, ya que es una función seno y esta es periódica. 
+- Se analizó la onda seno obteniendo los conceptos y elementos  e  identificando el comportamiento en circuitos cerrados medidos mediante el osciloscopio y  el multímetro.  
+- Los valores analíticos y experimentales  muestran una gran semejanza entre ellos, lo que significa que son  en cierta  manera precisos.
 
 **8. BIBLIOGRAFÍA**
 
