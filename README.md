@@ -89,6 +89,8 @@ Por último se muestra el valor del voltaje RL medido por el multímetro.
 
 **6. VIDEO:**
 
+https://www.youtube.com/watch?v=3CqOjifVww4
+
 **7. CONCLUSIONES**
 
 **8. BIBLIOGRAFÍA**
