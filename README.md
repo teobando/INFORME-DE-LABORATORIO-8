@@ -74,9 +74,11 @@ Por último se muestra el valor del voltaje RL medido por el multímetro.
 5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 - Amplitud de voltaje: 13.579 (v)
-- Periodo: 400 us = 4x10^(-6) (s) 
+- Periodo: 400 us = 400x10^(-6) (s) 
 
 6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
+![image](https://user-images.githubusercontent.com/94098157/155181250-53eb78bb-64db-4f7d-a845-581553ac569f.png)
 
 - f: 2500 (Hz)
 - ω: 500 π (rad/s)
