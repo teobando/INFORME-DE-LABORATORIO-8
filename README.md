@@ -47,6 +47,8 @@ Circuito realizado con sus respectivas conexiones en Multisim.
 
 ![image](https://user-images.githubusercontent.com/94098157/155060700-f289c91f-5aa1-4c32-af32-c8617c697246.png)
 
+![image](https://user-images.githubusercontent.com/94098157/155183224-50852138-e111-4d46-9da3-5c9d848a79f4.png)
+
 Aquí se muestra la onda seno mostrada por el osciloscopio. 
 
 ![image](https://user-images.githubusercontent.com/94098157/155068851-483568a0-912b-4f97-9085-77763a15304f.png)
