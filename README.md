@@ -25,6 +25,8 @@ NRC: 10133
 
 **2. MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/94098157/155169561-70a23c76-d3c0-43e0-a1d5-7d3d17e9e39e.png)
+
 **3. MATERIAL Y EQUIPO REQUERIDO**
 
 ![image](https://user-images.githubusercontent.com/94098157/155046211-df8e26b6-d442-45d0-8165-fd0877df8af2.png)
@@ -55,19 +57,19 @@ Por último se muestra el valor del voltaje RL medido por el multímetro.
 
 1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-2.75 
+- 2.75 
 
 2. ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-5  VOLTS/DIV
+- 5  VOLTS/DIV
 
 3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-2
+- 2
 
 4. ¿En qué valor está posicionada la perilla TIME/DIV?
 
-200 us/Div
+- 200 us/Div
 
 5. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
