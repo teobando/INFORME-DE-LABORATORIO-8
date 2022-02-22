@@ -101,9 +101,9 @@ https://www.youtube.com/watch?v=3CqOjifVww4
 
 **7. CONCLUSIONES**
 
--Se concluye que los valores de voltajes varían en función del tiempo, ya que es una función seno y esta es periódica. 
-- Se analizó la onda seno obteniendo los conceptos y elementos  e  identificando el comportamiento en circuitos cerrados medidos mediante el osciloscopio y  el multímetro.  
-- Los valores analíticos y experimentales  muestran una gran semejanza entre ellos, lo que significa que son  en cierta  manera precisos.
+- Se concluye que los valores de voltajes varían en función del tiempo, ya que es una función seno y esta es periódica. 
+- Se analizó la onda seno obteniendo los conceptos y elementos que la componen e  identificando el comportamiento del voltaje en circuitos cerrados medidos mediante el osciloscopio y  el multímetro.  
+- Los valores experimentales  muestran una gran semejanza entre ellos, lo que significa que son  en cierta  manera precisos.
 
 **8. BIBLIOGRAFÍA**
 
